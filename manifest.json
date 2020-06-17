@@ -47,5 +47,14 @@
 			"type": "image/png"
 		}
 	],
-	"splash_pages": null
+	"splash_pages": null,
+	"share_target": {
+		"action": "index.html",
+		"method": "GET",
+		"params": {
+			"title": "title",
+			"text": "text",
+			"url": "url"
+		}
+	}
 }
